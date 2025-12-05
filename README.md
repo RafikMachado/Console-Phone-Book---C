@@ -101,12 +101,6 @@ Contact added successfully!
 
 ---
 
-## **Optional Enhancements**
 
-* Improved sorting algorithms
-* Export to CSV
-* Colorized console output (Linux/macOS)
-
----
 
 
